@@ -1,0 +1,16 @@
+[
+    {"ID":1,"Name":"Buck 119 Special","Probability":0.7},
+    {"ID":2,"Name":"Kanetsune Sakura","Probability":0.6},
+    {"ID":3,"Name":"КО - 1","Probability":0.95},
+    {"ID":4,"Name":"Травматический пистолет Phantom","Probability":0.9},
+    {"ID":5,"Name":"Травматический пистолет ПСМ-Р","Probability":0.7},
+    {"ID":6,"Name":"Травматический пистолет Беркут ПМ","Probability":0.85},
+    {"ID":7,"Name":"Травматический пистолет ТТК","Probability":0.7},
+    {"ID":8,"Name":"Пистолет ИЖ-71","Probability":0.85},
+    {"ID":9,"Name":"Пистолет ТТ","Probability":0.75},
+    {"ID":10,"Name":"OЦ - 27(ПСА) \\\"Бердыш\\\"","Probability":0.75},
+    {"ID":11,"Name":"Пистолет \\\"Грач\\\"","Probability":0.75},
+    {"ID":12,"Name":"Magnum Research Inc. (MRI) Desert Eagle","Probability":0.65},
+    {"ID":13,"Name":"Glock 19","Probability":0.85},
+    {"ID":14,"Name":"Israel Military Industries (IMI) Jericho 941FS","Probability":0.75}
+]
